@@ -2,7 +2,7 @@
 
 a project to find losses on power lines
 
-## Note: Currently, this version of the repository does not contain the main business logic for security reasons. only the structure of the services themselves is presented here.
+### Note: Currently, this version of the repository does not contain the main business logic for security reasons. only the structure of the services themselves is presented here.
 
 ## Want to use this project?
 
