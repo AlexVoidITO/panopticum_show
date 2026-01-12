@@ -319,7 +319,7 @@ async def get_point(
         )
         raise HTTPException(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
-            detail=f"Ошибка при получении точки: {str(e)}"
+            detail=f"Ошибка при получении участка цепи: {str(e)}"
         )
 
 
