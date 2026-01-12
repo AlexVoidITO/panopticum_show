@@ -1,0 +1,10 @@
+alembic==1.16.2
+Pyrebase4==4.8.0
+asyncpg==0.30.0
+fastapi==0.115.13
+sqlmodel==0.0.24
+uvicorn[standard]==0.34.3
+python-multipart==0.0.20
+pandas==2.3.1
+openpyxl==3.1.5
+clickhouse_driver

@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+{
+  "manifestVersion": "2.0.0",
+  "signatureType": "grafana",
+  "signedByOrg": "grafana",
+  "signedByOrgName": "Grafana Labs",
+  "plugin": "grafana-clickhouse-datasource",
+  "version": "4.11.4",
+  "time": 1765829609831,
+  "keyId": "7e4d0c6a708866e7",
+  "files": {
+    "LICENSE": "cdd15e614b50e88443fe574ad56bde5ba697d958a45376431638eea816e3bfc3",
+    "module.js": "6ef73a73c66b17a002204b0c820462e311a2d778205ab87f586d1fc199530f1f",
+    "CHANGELOG.md": "2900686b0b19c4169a510fded1bc4c2ce8020d316758f6aab625caf65d187e5a",
+    "plugin.json": "e91d87a2b63a188dbd36e182649554d343ea8544bd905cea057aca396661381b",
+    "dashboards/opentelemetry-clickhouse.json": "f9f79f7d2c1059f842ddddddebd810f538fb619621c5dbd0e0fd85bcd2ac2914",
+    "dashboards/data-analysis.json": "15c4ea2dbaf906dffbb6845eb9c9c3299e6fbd614db356db5e3655263a76c7a4",
+    "dashboards/query-analysis.json": "1b2006a3f4142e512e50156a7d2fd8cf03a178019aaccc964c0283c8559298b3",
+    "dashboards/cluster-analysis.json": "7f83d4d09cc6f045768f5bf47485b864dd6da03094f8607808dec77cb96902e5",
+    "dashboards/system-dashboards.json": "017881431af913d3c8f776b4dab51e8a153745b016a964bb1ec3c99f52704af4",
+    "module.js.map": "a442d257d1b20989ae194cc4051af9cb0e8e23e1af39a7da44a479a81b614597",
+    "gpx_clickhouse_linux_arm64": "b4124ec0429bc52bbd0d7b14fb3bc34fd6a752a07e478da7dde6b89e907144c5",
+    "README.md": "009d32a0f974346a63a190ccb94c862bbe3d205653d45bf4d4cd01fe15655873",
+    "go_plugin_build_manifest": "59a19340e755042c11868c306d4269ebd30da59e689ef3cfa7b3a6bf57915fee",
+    "img/logo.svg": "838199055d86584ff105e5e91013203a6acb7d3f2061ae27678786125ab11f09"
+  }
+}
+-----BEGIN PGP SIGNATURE-----
+
+wsA9BAETCgBtBYJpQGvpCRB+TQxqcIhm50UUAAAAAAAcACBzYWx0QG5vdGF0
+aW9ucy5vcGVucGdwanMub3Jny3n8sZB0+51hAoC2CLF8i6C73oa/qjXbGYwF
+9MxqtIgWIQTzOyW2kQdOhGNlcPN+TQxqcIhm5wAAixwCB3DTYGME0eWQ3IAR
+xDnAUPwuAw5/5BYlawjTZodkQVCbPSXyayBmDSSCAVRUCiAneZd9mng7ID6E
+2MHTq6hZXwoQAgjZr2DVzVAieP4eNHZtCIwfNf71knDFaZweYZ0e5VWU5Exx
+nHtL+25M9hddMvsW2UqSyjmDxd/HqC2efNPneppdnQ==
+=gGjV
+-----END PGP SIGNATURE-----
