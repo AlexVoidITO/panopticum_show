@@ -31,7 +31,7 @@ logger = logging.getLogger(__name__)
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    """Обработчик жизненного цикла приложения"""
+    """Обработчик  цикла работы приложения"""
     # Startup
     await init_db()
     await clickhouse_client.connect()
